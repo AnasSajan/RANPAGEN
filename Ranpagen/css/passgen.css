@@ -1,0 +1,89 @@
+body{
+/* background:  -webkit-radial-gradient(center, ellipse cover, rgba(232,75,75,1) 0%, rgba(25,38,21,1) 98%, rgba(227,32,81,1) 100%);*/
+    background:url('/img/passwordSet.jpeg')no-repeat center center fixed;
+    background-size: cover;
+    
+    
+}
+.margin{
+    margin: 0 auto;
+    margin-left: 290px;
+    margin-top: 200px;
+    
+}
+.style{
+    padding: 20px 80px;
+    font-size: 22px;
+    text-align: center;
+    color: maroon;
+    background-color: black;
+    border: 0;
+    
+    
+}
+.genpass{
+    padding: 15px 125px 15px;
+    margin-left: 5px;
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    background-color: green;
+    font-family: 'Varela Round', sans-serif;
+    border-radius: 5px;
+    border: 1px solid black;
+    
+    
+    
+}
+.expand{
+    color:black;
+    font-size: 20px;
+    margin-left: 100px;
+    font-family: 'Varela Round', sans-serif;
+    
+   
+    
+}
+.box{
+    padding: 10px 15px;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 5px;
+    color: maroon;
+    font-size: 18px;
+    background-color: black;
+    border-radius: 15px;
+    border: 0;
+    
+}
+.element{
+    margin-top: 100px;
+    margin-left: 50px
+}
+.down{
+   margin-top: 150px;
+    height:150px;
+    text-align: justify;
+    color: wheat; 
+    background-color: darkred;
+    background: url('/img/passwordSet.jpeg');
+    font-family: 'Architects Daughter', cursive;
+    padding-bottom: 50px;
+    
+    
+}
+h1{
+    font-family: 'Orbitron', sans-serif;
+}
+
+.navigate{
+    margin: 60px 650px;
+    margin-bottom: 20px;
+}
+div .col-lg-12{
+    margin-left: 600px;
+    font-size: 16px;
+    margin-top: 30px
+}
+    
+
